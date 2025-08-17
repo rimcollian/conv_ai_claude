@@ -23,3 +23,4 @@ pyarrow==14.0.2
 
 # TensorFlow wrapper (lightweight)
 tf-keras
+plotly>=5.18.0
